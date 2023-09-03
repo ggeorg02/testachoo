@@ -4,11 +4,14 @@ project_repo: lucydot/ChooChoo-template
 admins:
 - lucydot
 - choochoo-bot
+- ggeorg02
 instructors:
 - lucydot
+- ggeorg02
 students:
 - lucydot
 - choochoo-bot
+- ggeorg02
 web_address: https://lucydot.github.io/ChooChoo-template
 
 # User options (may edit)
